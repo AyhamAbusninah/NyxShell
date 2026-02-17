@@ -17,8 +17,8 @@ We take the security of NyxShell seriously. If you discover a vulnerability (e.g
 
 Please do **not** open a public GitHub issue for sensitive security vulnerabilities. Instead, report them privately via email to the maintainers:
 
-* **Ayham Abusnineh**: [Insert Your Email Here]
-* **Jihad Aljubeh**: [Insert Your Email Here]
+* **Ayham Abusnineh**: [a079.ayham@gmail.com]
+* **Jihad Aljubeh**: [aljubehjihad@gmail.com]
 
 ### What to Include
 
